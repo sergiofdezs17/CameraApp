@@ -1,0 +1,28 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.sergio.hello"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.sergio.hello"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.sergio.hello"
+    },
+    "cordova-plugin-photo-library": {
+      "PACKAGE_NAME": "com.sergio.hello"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.sergio.hello"
+    }
+  }
+}
